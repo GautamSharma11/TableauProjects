@@ -43,11 +43,3 @@ To analyze the used car market and identify patterns in selling price, fuel pref
 2. Open in Tableau Desktop or Tableau Public.
 3. Use filters to interact with the dashboard.
 
-## 🔗 Tableau Public Link
-
-Add your link here.
-
----
-
-👤 **Author**  
-Gautam Sharma
