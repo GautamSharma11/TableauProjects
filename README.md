@@ -1,35 +1,53 @@
-🚗 Cars Data Analysis – Tableau Dashboard
+# 📊 TableauProjects
 
-Interactive Tableau dashboard analyzing used car sales data to uncover pricing trends, transmission impact, fuel type valuation, and ownership patterns.
+This repository contains my Tableau dashboard projects focused on extracting business insights through interactive data visualization.
 
-🔎 Insights
+---
 
-Automatic cars have significantly higher average selling prices than Manual cars.
+# 🚗 Cars Data Analysis Dashboard
 
-Electric vehicles show the highest resale value.
+An interactive Tableau dashboard analyzing used car sales data to uncover pricing trends, transmission impact, fuel type valuation, and ownership patterns.
 
-Diesel & Petrol dominate listing volume.
+## 🎯 Objective
 
-First-owner vehicles form the majority of the market.
+To analyze the used car market and identify patterns in selling price, fuel preference, transmission type, and ownership distribution.
 
-🛠 Tools Used
+## 🔎 Key Insights
 
-Tableau
+- Automatic cars have significantly higher average selling prices than Manual cars.
+- Electric vehicles show the highest resale value despite low listing count.
+- Diesel and Petrol cars dominate total listings.
+- First-owner vehicles represent the majority of the market.
+- Selling prices peaked around 2019–2020.
 
-Calculated Fields
+## 🛠 Tools Used
 
-Interactive Filters
+- Tableau Desktop / Tableau Public
+- Calculated Fields
+- Interactive Filters
+- Multi-chart Dashboard Design
+- Data Aggregation & Comparative Analysis
 
-Multi-chart Dashboard Design
+## 📊 Dashboard Components
 
-📊 Dashboard Includes
+- Selling Price Trend (Year-wise Line Chart)
+- Automatic vs Manual Comparison
+- Fuel Type Pricing Analysis
+- Ownership Distribution
+- Dealer vs Individual Seller Analysis
+- Kilometers Driven Analysis
 
-Selling Price Trend (Year-wise)
+## 🚀 How to View
 
-Transmission Comparison
+1. Download the `.twbx` file.
+2. Open in Tableau Desktop or Tableau Public.
+3. Use filters to interact with the dashboard.
 
-Fuel Type Pricing
+## 🔗 Tableau Public Link
 
-Ownership Distribution
+Add your link here.
 
-Dealer vs Individual Analysis
+---
+
+👤 **Author**  
+Gautam Sharma
